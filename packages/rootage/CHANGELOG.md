@@ -1,5 +1,11 @@
 # @seed-design/rootage-artifacts
 
+## 1.2.4
+
+### Patch Changes
+
+- 103830e: List Item의 title fontWeight를 `$font-weight.medium`에서 `$font-weight.regular`로 변경합니다.
+
 ## 1.2.3
 
 ### Patch Changes

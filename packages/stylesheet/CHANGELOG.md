@@ -1,5 +1,11 @@
 # @seed-design/stylesheet
 
+## 1.1.2
+
+### Patch Changes
+
+- cd9a46c: color-scheme의 light-only와 dark-only에 `only` 키워드를 추가합니다
+
 ## 1.1.1
 
 ### Patch Changes

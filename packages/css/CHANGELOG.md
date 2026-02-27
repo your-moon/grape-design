@@ -1,5 +1,12 @@
 # @seed-design/css
 
+## 1.2.4
+
+### Patch Changes
+
+- cd9a46c: color-scheme의 light-only와 dark-only에 `only` 키워드를 추가합니다
+- 103830e: List Item의 title fontWeight를 `$font-weight.medium`에서 `$font-weight.regular`로 변경합니다.
+
 ## 1.2.3
 
 ### Patch Changes

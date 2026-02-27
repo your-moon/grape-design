@@ -1,5 +1,14 @@
 # @seed-design/figma
 
+## 1.3.5
+
+### Patch Changes
+
+- d6df976: Figma Codegen 과정에서 지원되지 않는 종류의 레이어를 발견하는 경우 어떤 종류인지 결과에 명시합니다.
+- Updated dependencies [cd9a46c]
+- Updated dependencies [103830e]
+  - @seed-design/css@1.2.4
+
 ## 1.3.4
 
 ### Patch Changes
